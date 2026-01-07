@@ -4,7 +4,7 @@ Este é um repositório destinado a praticar exercícios e revisar conteúdos de
 
 ## O projeto segue a seguinte organização:
 
-- ex001 - Significado de cada linha da estrutura básica de HTML, título, parágrafos e <hr>.
+- ex001 - Significado de cada linha da estrutura básica de HTML, título, parágrafos e &lt;hr&gt;.
 - ex002 - Parágrafos e símbolo de "<" e ">".
 - ex003 - Emojis, símbolos, e imagens.
 - ex004 - Favicon.
