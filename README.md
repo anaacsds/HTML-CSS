@@ -8,5 +8,5 @@ Este é um repositório destinado a praticar exercícios e revisar conteúdos de
 - ex002 - Parágrafos e símbolo de "<" e ">".
 - ex003 - Emojis, símbolos, e imagens.
 - ex004 - Favicon.
-- ex005 -
+- ex005 - Hierarquia de títulos.
 - ex006 -
