@@ -9,4 +9,4 @@ Este é um repositório destinado a praticar exercícios e revisar conteúdos de
 - ex003 - Emojis, símbolos, e imagens.
 - ex004 - Favicon.
 - ex005 - Hierarquia de títulos.
-- ex006 - Diferença da semântica do HTML4 para o HTML5.
+- ex006 - Diferença da semântica do HTML4 para o HTML5 e ínicio de Formatação de Textos.
