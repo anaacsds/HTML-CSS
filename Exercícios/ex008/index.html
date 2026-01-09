@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas</title>
+</head>
+<body>
+    <h1>Trabalhando com Listas</h1>
+    <h2>Listas Ordenadas</h2> <!-- listas ordenadas são listas que a ordem faz diferença -->
+    <ol type="i"> <!-- é possível deixar da forma padrão (em números, como 1, 2...) ou também
+                      com letras grandes (A, B...), letras pequenas (a, b...) ou em números
+                      romanos grandes(I, II...) ou números romanos pequenos (i, ii...) -->
+
+    <!-- com o paramentro "start" é possível indicar de onde começar a lista(exemplo: "start = 4", e então
+     a lista vai seguir a seguinte ordem: 4, 5, 6... até acabar) -->
+        <li>Acordar</li> <!-- I -->
+        <li>Ligar para o João</li> <!-- II -->
+        <li>Tomar café</li> <!-- III -->
+        <li>Escovar os dentes</li> <!-- IV -->
+        <li>Ir para a faculdade</li> <!-- V -->
+        <li>Almoçar</li> <!-- VI -->
+        <li>Ir para o trabalho</li> <!-- VII -->
+        <li>Voltar para casa</li> <!-- VIII -->
+        <li>Jantar</li> <!-- IX -->
+        <li>Dormir</li> <!-- X -->
+        <!-- o fechamento da tag <li> se tornou opcional, ou seja, se quiser não é necessáro adicionar
+            fechamento nessa tag. Diferentemente da tag <ol> que é obrigatório o seu fechamento. -->
+    </ol>
+    <h2>Listas não Ordenadas</h2> <!-- Listas que a sequência não faz sentido, não é preciso enumerar -->
+    <ul type="square"> <!-- disc (círculo preenchido), circle (círculo aberto), square (quadrado) -->
+        <li>Pão</li>
+        <li>Leite</li>
+        <li>Tomate</li>
+        <li>Alface</li>
+        <li>Manteiga</li>
+        <li>Arroz</li>
+        <li>Feijão</li>
+    </ul>
+
+    <!--Junção de ol + li -->
+    <h2>Minhas linguagens favoritas</h2>
+    <ol>
+        <li>Antigas</li>
+        <ol type="a">
+            <li>Clipper</li>
+            <li>Visual Basic</li>
+            <li>Fortran</li>
+            <li>Delphi</li>
+        </ol>
+        <li>Novas</li>
+        <ol type="a" start="5"> <!-- aqui, ele começa a partir do quinto elemento -->
+            <li>PHP</li>
+            <li>Python</li>
+            <li>JavaScript</li>
+            <li>Kotlin</li>
+        </ol>
+    </ol>
+
+    <!-- Junção de ol + li + ul -->
+     <!-- Dica de macete: clique na tag, segure o ALT e vá clicando nas tags que deseja alterar e aí altere -->
+    <h2>Meus jogos favoritos</h2>
+    <ol>
+        <li>NES</li>
+        <ul type="square">
+            <li>Mario Bros</li>
+            <ul type="circle">
+                <li>Mario Bros 3</li>
+                <li>Mario: Lost Levels</li>
+            </ul>
+            <li>Ninja Gaiden</li>
+        </ul>
+        <li>SNES</li>
+        <ul type="square">
+            <li>Mario</li>
+            <li>Donkey Kong</li>
+        </ul>
+        <li>PlayStation</li>
+        <ul type="square">
+            <li>Final Fantasy</li>
+            <li>Castlevania</li>
+        </ul>
+    </ol>
+
+    <!-- É como se fosse um dicionário com o termo (dt) e significado (dd) -->
+    <h2>Lista de Definições</h2>
+    <dl>
+        <dt>HTML</dt> <!--Termo-->
+        <dd>Linguagem de marcação para a criação do conteúdo de um site.</dd> <!--Descrição-->
+        <dt>CSS</dt>
+        <dd>Linguagem de marcação para a criação do design de um site.</dd>
+        <dt>JavaScript</dt>
+        <dd>Linguagem de programação para a criação de interatividade de um site.</dd>
+    </dl>
+</body>
+</html>

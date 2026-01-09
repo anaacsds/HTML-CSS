@@ -10,4 +10,5 @@ Este é um repositório destinado a praticar exercícios e revisar conteúdos de
 - ex004 - Favicon.
 - ex005 - Hierarquia de títulos.
 - ex006 - Diferença da semântica do HTML4 para o HTML5 e ínicio de Formatação de Textos.
-- ex007 - Outras formatações.
+- ex007 - Outras formatações (code, abreviações, citações, abreviações e texto invertidas).
+- ex008 - Listas.
