@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trabalhando com links</title>
+</head>
+<body>
+    <h1>Usando links externos</h1>
+    <!-- É um link que vai apontar para outro site -->
+    <p>Você pode acessar o meu <a href="https://gustavoguanabara.github.io/" target="_blank" rel="external">repositório público no GitHub</a></p>
+    <!-- o "target=_blank" te redireciona para outra página ao invés de abrir a página na mesma guia que você está,
+     target significa "alvo" e blank significa "em branco" 
+     porém dá para adicionar também: _self que abre o link na janela ou frame atual, _top que desfaz todos
+     os frames e abre o destino no navegador completo, _parent que é similar ao _top em uma referência a 
+     uma janela mãe, e algum nome-do-frame que caso esteja usando frames abre a janela para onde 
+     queira abrir -->
+
+     <!-- o "rel="external" (significa "relativo para") indica que é um link externo -->
+    <p>Você também pode acessar o meu <a href="https://youtube.com/cursoemvideo/" target="_blank" rel="external">canal gratuito no YouTube</a></p>
+
+    <h1>Usando links internos</h1>
+    <!-- Faz a relação com outra página que está dentro do mesmo servidor e condiz/diz respeito a nossa
+     própria página -->
+    <p>Esta é a primeira página do site. Se você quiser, pode acessar também a minha <a href="pag002.html" rel="next" target="_self">segunda página</a></p>
+    <!-- "rel="next" (significa "próximo") -->
+    <p>Você também pode acessar a nossa <a href="noticias/pag003.html" rel="next" target="_self">página de notícias</a></p>
+
+    <h1>Links para download</h1>
+    <ul>
+        <li><a href="livro/meulivro.pdf" download="meulivro.pdf" type="application/pdf">Baixar o livro em PDF</a></li>
+        <!-- o href redireciona o link,
+         o type para baixar o aquivo no formado PDF -->
+        <li><a href="livro/meulivro.zip" download="meulivro.zip" type="application/zip">Livro compactado em ZIP</a></li>]
+        <!--Caso não tenha um link coloque "#" que significa que ali é um link vazio-->
+    </ul>
+</body>
+</html>
