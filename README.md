@@ -15,7 +15,7 @@ Exercícios:
 - ex007 - Outras formatações (code, abreviações, citações, abreviações e texto invertidas).
 - ex008 - Listas.
 - ex009 - Links internos, externos e de download.
-- ex010 -
+- ex010 - Mídias em HTML5.
 
 Desafios:
 

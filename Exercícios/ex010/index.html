@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mídias em HTML5</title>
+</head>
+<body>
+    <h1>Imagem dinâmica</h1>
+    <p>Tente abrir esse site em vários dispositivos diferentes ou simplesmente aumente e diminua o tamanho do seu navegador.</p>
+    <picture> <!--Permite que você crie vários sources, várias fontes. Essa tag indica que vai aparecer
+        uma imagem depois-->
+        <!--Importante: A ordem dos sources importa! Tem que ser crescente -->
+        <source media="(max-width: 750px)" srcset="imagens/foto-p.png" type="image/png"> <!--Se o navegador tiver
+                                                                                        em menos de 750px, ele vai
+                                                                                        carregar a foto P -->
+        <source media="(max-width: 1050px)" srcset="imagens/foto-m.png" type="image/png"> <!--Se o navegador for
+                                                                                        maior que 750px e menor que
+                                                                                        1050px, ele vai carregar
+                                                                                        a foto M -->
+        <img src="imagens/foto-g.png" alt="Imagem flexível"> <!--Se o navegador for maio que as resoluções
+                                                             acima, ele vai carregar a foto G -->
+    </picture>
+
