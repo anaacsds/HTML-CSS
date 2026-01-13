@@ -20,8 +20,8 @@ Exercícios:
 Desafios:
 
 - d001 - Mensagens em parágrafos.
-- d002 - Imagens.
-- d003 -
+- d002 - Imagens e Favicon.
+- d003 - Mapa Mundi.
 - d004 -
 - d005 - Meu perfil social.
 - d006 - Meus Emojis favoritos.
