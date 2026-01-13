@@ -25,3 +25,8 @@ Desafios:
 - d004 - Meus Emojis favoritos.
 - d005 - Meu perfil social.
 - d006 - 
+
+Anotações:
+
+- historia - O que é a Internet e da onde surgiu?
+- 
