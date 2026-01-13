@@ -24,4 +24,4 @@ Desafios:
 - d003 -
 - d004 -
 - d005 - Meu perfil social.
-- d006 - 
+- d006 - Meus Emojis favoritos.
