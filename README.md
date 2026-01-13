@@ -4,6 +4,8 @@ Este é um repositório destinado a praticar exercícios e revisar conteúdos de
 
 ## O projeto segue a seguinte organização:
 
+Exercícios:
+
 - ex001 - Significado de cada linha da estrutura básica de HTML, título, parágrafos e &lt;hr&gt;.
 - ex002 - Parágrafos e símbolo de "<" e ">".
 - ex003 - Emojis, símbolos, e imagens.
@@ -14,3 +16,12 @@ Este é um repositório destinado a praticar exercícios e revisar conteúdos de
 - ex008 - Listas.
 - ex009 - Links internos, externos e de download.
 - ex010 -
+
+Desafios:
+
+- d001 - 
+- d002 - 
+- d003 -
+- d004 -
+- d005 - Meu perfil social.
+- d006 - 
