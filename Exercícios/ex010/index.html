@@ -22,3 +22,37 @@
                                                              acima, ele vai carregar a foto G -->
     </picture>
 
+    <!-- srcset é um atributo que permite especificar múltiplas versões de uma imagem 
+    (com diferentes tamanhos ou densidades de pixel) para o navegador escolher a mais adequada 
+    ao dispositivo do usuário -->
+
+
+    <!-- Source significa fonte -->
+
+    <h1>Reproduzindo Áudio</h1>
+    <p>Vamos aprender a reproduzir áudios em HTML5.</p>
+    <audio preload="metadata" autoplay controls loop> <!-- o parametro preload pode receber "auto" que significa
+                                                      que ele só vai considerar que o site terminou de carregar
+                                                      depois de carregar todo o audio, e isso pode ser ruim
+                                                      caso o tamanho do audio seja muito grande.
+                                                      ele pode receber também o "metatada" que significa que vai
+                                                      carregar o nome do arquivo, data, informações... e quando dar
+                                                      play demora um pouquinho para carregar porque ele vai fazer
+                                                      o download.
+                                                      e "none" ele não vai carregar absolutamente nada, só quando
+                                                      o usuário clicar play -->
+                                <!--o autoplay controls faz ser possível reproduzir o audio
+                                o loop faz com que, quando o audio termine, ele recomece -->
+        <!--Aqui, a ordem também importa. Se você colocar o mp3 primeiro, ele vai tentar carregar
+        o mp3 primeiro, depois o ogg e por último o wav-->
+        <source src="midia/guanacast-33.mp3" type="audio/mpeg"> <!--mpeg para audio mp3-->
+        <source src="midia/guanacast-33.ogg" type="audio/ogg">
+        <source src="midia/guanacast-33.wav" type="audio/wav">
+        <!--Dica: Tentar evitar arquivos wav porque eles são arquivos muito grandes e pesados, e isso vai
+        pesar também o site-->
+        <p>Infelizmente seu navegador não consegue reproduzir áudio. <a href="midia/guanacast-33.mp3">Clique aqui para baixar o arquivo MP3</a></p>
+        <!--Esse último parágrafo vai aparecer caso o navegador for incompativel com as formas
+        de arquivos de aúdio acima-->
+    </audio>
+</body>
+</html>
