@@ -19,8 +19,8 @@ Exercícios:
 
 Desafios:
 
-- d001 - 
-- d002 - 
+- d001 - Mensagens em parágrafos.
+- d002 - Imagens.
 - d003 -
 - d004 -
 - d005 - Meu perfil social.
