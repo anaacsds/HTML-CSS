@@ -21,6 +21,8 @@ Exercícios:
 * [Vídeos](Exercícios/ex011)
 * [Estilos Inline CSS](Exercícios/ex012)
 * [Estilos Locais/Internos CSS](Exercícios/ex013)
+* [Estilos Externos CSS](Exercícios/ex014)
+
 
 
 Desafios:
