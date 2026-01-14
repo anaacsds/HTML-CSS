@@ -31,7 +31,7 @@ Desafios:
 * [Meu perfil social.](Desafios/d005)
 * [Tags em HTML](Desafios/d006)
 * [Imagem Flexível](Desafios/d007)
-* [](Desafios/d008)
+* [Criando uma navegação](Desafios/d008)
 * [Vídeos e Links.](Desafios/d009)
 
 Anotações das aulas:
