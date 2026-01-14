@@ -2,6 +2,8 @@
 
 Este é um repositório destinado a praticar exercícios e revisar conteúdos de HTML5 e CSS3 com os cursos do Gustavo Guanabara de Curso em Vídeo.
 
+Referência ao material original: https://github.com/gustavoguanabara/
+
 ## O projeto segue a seguinte organização:
 
 Exercícios:
