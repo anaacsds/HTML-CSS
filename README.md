@@ -29,7 +29,7 @@ Desafios:
 * [Montando Mapa Mundi.](Desafios/d003)
 * [Adicionando meus Emojis favoritos.](Desafios/d004)
 * [Meu perfil social.](Desafios/d005)
-* [](Desafios/d006)
+* [Tags em HTML](Desafios/d006)
 * [](Desafios/d007)
 * [](Desafios/d008)
 * [Vídeos e Links.](Desafios/d009)
