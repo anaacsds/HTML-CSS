@@ -23,8 +23,8 @@ Desafios:
 
 - d001 - Mensagens em parágrafos.
 - d002 - Imagens e Favicon.
-- d003 - Mapa Mundi.
-- d004 - Meus Emojis favoritos.
+- d003 - Montando Mapa Mundi.
+- d004 - Adicionando meus Emojis favoritos.
 - d005 - Meu perfil social.
 - d006 - 
 
