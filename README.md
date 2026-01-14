@@ -30,7 +30,7 @@ Desafios:
 * [Adicionando meus Emojis favoritos.](Desafios/d004)
 * [Meu perfil social.](Desafios/d005)
 * [Tags em HTML](Desafios/d006)
-* [](Desafios/d007)
+* [Imagem Flexível](Desafios/d007)
 * [](Desafios/d008)
 * [Vídeos e Links.](Desafios/d009)
 
