@@ -23,12 +23,16 @@ Exercícios:
 
 Desafios:
 
+* [d001 - Mensagens em parágrafos.](Desafios/d001)
 - d001 - Mensagens em parágrafos.
 - d002 - Imagens e Favicon.
 - d003 - Montando Mapa Mundi.
 - d004 - Adicionando meus Emojis favoritos.
 - d005 - Meu perfil social.
 - d006 - 
+- d007 -
+- d008 -
+- d009 - Vídeos e Links.
 
 Anotações:
 
