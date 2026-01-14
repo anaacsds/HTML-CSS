@@ -16,6 +16,8 @@ Exercícios:
 - ex008 - Listas.
 - ex009 - Links internos, externos e de download.
 - ex010 - Mídias em HTML5.
+- ex011 - Vídeos.
+- ex012 -
 
 Desafios:
 
