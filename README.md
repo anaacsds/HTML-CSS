@@ -20,6 +20,7 @@ Exercícios:
 * [Mídias em HTML5.](Exercícios/ex010)
 * [Vídeos](Exercícios/ex011)
 * [Estilos Inline CSS](Exercícios/ex012)
+* [Estilos Locais/Internos CSS](Exercícios/ex013)
 
 
 Desafios:
