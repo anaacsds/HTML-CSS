@@ -23,16 +23,16 @@ Exercícios:
 
 Desafios:
 
-* [d001 - Mensagens em parágrafos.](Desafios/d001)
-- d001 - Mensagens em parágrafos.
-- d002 - Imagens e Favicon.
-- d003 - Montando Mapa Mundi.
-- d004 - Adicionando meus Emojis favoritos.
-- d005 - Meu perfil social.
-- d006 - 
-- d007 -
-- d008 -
-- d009 - Vídeos e Links.
+* [Mensagens em parágrafos.](Desafios/d001)
+* [Imagens e Favicon.](Desafios/d002)
+* [Montando Mapa Mundi.](Desafios/d003)
+* [Adicionando meus Emojis favoritos.](Desafios/d004)
+* [Meu perfil social.](Desafios/d005)
+* [](Desafios/d006)
+* [](Desafios/d007)
+* [](Desafios/d008)
+* [Vídeos e Links.](Desafios/d009)
+
 
 Anotações:
 
