@@ -19,7 +19,6 @@ Exercícios:
 * [Links internos, externos e de download.](Exercícios/ex009)
 * [Mídias em HTML5.](Exercícios/ex010)
 * [Vídeos](Exercícios/ex011)
-* [](Exercícios/ex012)
 
 
 Desafios:
